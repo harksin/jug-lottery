@@ -1,0 +1,20 @@
+{
+  "name": "jug-lottery",
+  "version": "0.0.1",
+  "description": "Jug Montpellier lottery",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "nbrite": "^0.2.0"
+
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fteychene",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "eslint": "^3.2.2"
+  }
+}
