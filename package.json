@@ -6,8 +6,10 @@
   "dependencies": {
     "body-parser": "^1.15.1",
     "express": "^4.13.4",
-    "nbrite": "^0.2.0"
-
+    "nbrite": "^0.2.0",
+    "request": "^2.75.0",
+    "request-promise": "^4.1.1",
+    "request-promise-native": "^1.0.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
